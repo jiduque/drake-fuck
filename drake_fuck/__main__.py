@@ -1,4 +1,4 @@
-from drake_fuck.runner import BrainfuckProgram
+from drake_fuck.program import BrainfuckProgram
 
 
 if __name__ == '__main__':
